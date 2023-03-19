@@ -1,6 +1,2 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffd8eb&height=400&text=happyrina&nbsp;◡̈)
 
-<!--
-**happyrina/happyrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyrina&show_icons=true&theme=dracula)
