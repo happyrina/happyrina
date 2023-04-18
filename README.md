@@ -4,7 +4,7 @@
 
 <br>
   
-#### :wave: Welcome to my github profile !!! <br> I'm a Frontend Engineer!
+#### :wave: Welcome to my github profile !!! <br>
 
 <br>
 <br>
