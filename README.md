@@ -27,19 +27,12 @@
 	<br>
 	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Photoshop&logoColor=white" />
 	<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Illustrator&logoColor=white" />
-	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
-	
-	<br>
-	<hr>
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riniversal@gmail.com&layout=compact"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=riniversal@gmail.com&show_icons=true">
-
-	
-	
-	
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />	
 </div>
 <hr>
+	
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyrina&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=happyrina&show_icons=true">
 
 
   
