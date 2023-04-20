@@ -1,11 +1,13 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFA9CE&height=400&text=happyrina&nbsp;◡̈)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFA9CE&height=400&text=Hello&nbsp;I'm&nbsp;Arin◡̈)
 
 <br>
-  
-#### :wave: Welcome to my github profile !!! <br>
 
+#### :wave: Welcome to my github profile !!! <br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappyrina%2Fhit-counter&count_bg=%23FF88BB&title_bg=%23555555&icon=staffbase.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br>
 <br>
 <br>
 📚Tech Stack📚
@@ -15,7 +17,6 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
  	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/Nodejs-339933?style=flat&logo=Nodejs&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
@@ -30,7 +31,7 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />	
 </div>
 <hr>
-  
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyrina&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=happyrina&show_icons=true">
 </div>
