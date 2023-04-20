@@ -31,6 +31,6 @@
 </div>
 <hr>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyrina&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyrina&layout=compact">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=happyrina&show_icons=true">
 </div>
