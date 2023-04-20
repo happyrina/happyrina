@@ -30,11 +30,6 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />	
 </div>
 <hr>
-	
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyrina&layout=compact">
-	<img src="https://github-readme-stats.vercel.app/api?username=happyrina&show_icons=true">
-
-
   
   
 </div>
