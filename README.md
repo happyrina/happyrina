@@ -1,7 +1,9 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFA9CE&height=400&text=Hello&nbsp;I'm&nbsp;Arin◡̈)
-
+<br>
+	
+	
 <br>
 
 #### :wave: Welcome to my github profile !!! <br>
