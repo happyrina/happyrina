@@ -20,7 +20,7 @@
 <br>
 <br>
 <br>
-📚교육과정 Tech Stack📚
+📚Tech Stack📚
 <br><br>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
