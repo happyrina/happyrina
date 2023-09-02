@@ -50,6 +50,6 @@
 </div>
 <hr>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyrina&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyrina&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=happyrina&show_icons=true">
 </div>
