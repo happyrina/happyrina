@@ -35,13 +35,10 @@
 	<img src="https://img.shields.io/badge/centos-262577?style=flat&logo=Centos&logoColor=white" />
 	<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=AWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-	<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 	<br>
 	<br>
 	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Photoshop&logoColor=white" />
