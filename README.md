@@ -12,10 +12,6 @@
 <br>
 <br>
 
-|Language|Web Front-End|Web Back-End|
-|---|---------|---|
-
-
 
 <br>
 <br>
