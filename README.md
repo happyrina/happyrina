@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&text=Hello&nbsp;I'm&nbsp;Arin◡̈!!)
 <br>
+
+#blog
+#portfolio
 	
 	
 <br>
@@ -35,10 +38,9 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />	
 	<br>
 	<br>
-	Now I'm studying</span><br>
-	<br>
+	Now I'm studying ~
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
-	<img src="https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=Nextjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 	<br>
 </div>
 <hr>
