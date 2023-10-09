@@ -1,21 +1,22 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&text=Hello&nbsp;I'm&nbsp;Arin◡̈!!)
-<br>
-
-#blog
-#portfolio
-	
-	
-<br>
-
-#### :wave: Welcome to my github profile !!! <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappyrina%2Fhit-counter&count_bg=%23FF88BB&title_bg=%23555555&icon=staffbase.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br>
-<br>
- 📚Tech Stack📚
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFDF36&height=400&text=Hello,&nbsp;I'm&nbsp;Arin◡̈!!)
 <br><br>
+
+
+## 👩🏻‍💻Frontend Developer👩🏻‍💻
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappyrina%2Fhit-counter&count_bg=%23FFDF36&title_bg=%23AAAAAA&icon=&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+<br>
+
+### 📍blog
+### 📍portfolio
+
+<br>
+<br>
+
+### 📚Tech Stack📚
+
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
