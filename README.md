@@ -4,7 +4,7 @@
 <br><br>
 
 
-### 👩🏻‍💻Frontend Developer👩🏻‍💻
+### 👩🏻‍💻 Junior Developer & Engineer 👩🏻‍💻
 
 ### 📍blog
 ### 📍portfolio
