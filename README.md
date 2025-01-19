@@ -4,8 +4,6 @@
 <br><br>
 
 
-### 👩🏻‍💻 A passionate Full-stack Developer & Engineer 👩🏻‍💻
-
 #### 📎 blog
 #### 📎 portfolio
 
